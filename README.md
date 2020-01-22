@@ -1,1 +1,1 @@
-# MALL-Customer-Churn
+# MALL_CUSTOMER_SEGMENTATION
